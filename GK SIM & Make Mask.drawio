@@ -1,0 +1,100 @@
+<mxfile host="172.30.98.44" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.8">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1769" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QebV8AvWZoJymF-4zbnZ-1" target="qXFFHQ1u_cZhGTH7KtqA-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QebV8AvWZoJymF-4zbnZ-1" value="&lt;div&gt;Patient is scheduled for&lt;/div&gt;&lt;div&gt;Make Mask CT, MRI&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QebV8AvWZoJymF-4zbnZ-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GK SIM &amp;amp; Make Mask&lt;i style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/i&gt; &lt;br&gt;&lt;/h1&gt;&lt;p&gt;Process map for simulation and mask creation, for patients without prior treatment.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="20" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-3" target="qXFFHQ1u_cZhGTH7KtqA-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-3" value="&lt;div&gt;Patient is checked in&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Q in mosaiq)&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-7" target="qXFFHQ1u_cZhGTH7KtqA-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-7" target="qXFFHQ1u_cZhGTH7KtqA-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-7" value="Make Mask Procedure at GK Vault." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-9" value="CBCT image acquired for stereotactic reference" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CBCT to&amp;nbsp;&lt;/div&gt;&lt;div&gt;GK Plan&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="940" y="565" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-9" target="qXFFHQ1u_cZhGTH7KtqA-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-14" target="poYja6cPYdFDtg5lcaRl-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-14" value="&lt;div&gt;Send to CT or MRI&amp;nbsp;&lt;/div&gt;&lt;div&gt;based on Schedule&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="730" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="poYja6cPYdFDtg5lcaRl-1" target="qXFFHQ1u_cZhGTH7KtqA-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="poYja6cPYdFDtg5lcaRl-0" target="qXFFHQ1u_cZhGTH7KtqA-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-21" target="qXFFHQ1u_cZhGTH7KtqA-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-21" target="qXFFHQ1u_cZhGTH7KtqA-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Images sent&amp;nbsp;&lt;/div&gt;&lt;div&gt;to MIM&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="970" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-14" target="qXFFHQ1u_cZhGTH7KtqA-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-29" value="Patient is referred/consulted/and recommended for GK treatment" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qXFFHQ1u_cZhGTH7KtqA-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-33" value="Physics initiates contours with VBRAIN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXFFHQ1u_cZhGTH7KtqA-41" value="Physics creates MIM session and QCL for contour re" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="533.33" y="1190" width="133.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="poYja6cPYdFDtg5lcaRl-0" value="Patient is sent to CT" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="poYja6cPYdFDtg5lcaRl-1" value="Patient is sent to MRI" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

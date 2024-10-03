@@ -1,0 +1,194 @@
+<mxfile host="172.30.98.44" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.8">
+  <diagram name="Page-1" id="BD2aUjKL_MH0JqkHMiQd">
+    <mxGraphModel dx="1783" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Post-Tx Documentation (frameless)&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This describes the final close out for billing, documents/procedure notes, and qcls.&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-2" target="p9t9fxG8Ye37PBpKrWI1-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-2" target="p9t9fxG8Ye37PBpKrWI1-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tx is completed&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="950" y="60" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-5" target="p9t9fxG8Ye37PBpKrWI1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-5" value="Therapist completes R&amp;amp;V in Mosaiq" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="85" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-6" target="p9t9fxG8Ye37PBpKrWI1-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-6" value="Billing is captured for GK codes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-8" target="p9t9fxG8Ye37PBpKrWI1-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="965" y="480.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-8" value="QCL sent to physics for final GK closeout" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="720" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-14" target="p9t9fxG8Ye37PBpKrWI1-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-14" value="Physics Finalizes Documentation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="975" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-16" target="p9t9fxG8Ye37PBpKrWI1-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-16" value="Ensure that documentation is complete and approved" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1145" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-18" value="&lt;b&gt;Special Physics Report&lt;/b&gt;&lt;br&gt;&lt;div&gt;P-GK SRS or SBRT&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="170" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-23" value="&lt;b&gt;Physician Request for Service&lt;/b&gt;&lt;br&gt;&lt;div&gt;PO-GK SRS or SBRT&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="266" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-24" value="&lt;b&gt;Seconday Dose Calculation Report&lt;/b&gt;&lt;br&gt;&lt;div&gt;P-MU Calc&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="366" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-25" value="&lt;b&gt;Plan Document&lt;/b&gt;&lt;br&gt;&lt;div&gt;GK#_MRN_Patientname&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="466" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-27" value="&lt;div&gt;&lt;b&gt;MD Procedure Note&lt;br&gt;&lt;/b&gt;&lt;/div&gt;T-GK SRS Proc Note" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="580" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-28" target="p9t9fxG8Ye37PBpKrWI1-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="430" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-28" target="p9t9fxG8Ye37PBpKrWI1-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-28" target="p9t9fxG8Ye37PBpKrWI1-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-32" target="p9t9fxG8Ye37PBpKrWI1-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-32" target="p9t9fxG8Ye37PBpKrWI1-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-32" value="Verify D&amp;amp;I is complete" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1145" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-40" value="Final Chart Closeout Checklist" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1413.3300000000002" y="830" width="186.67" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-41" value="Diagnosis" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-40" vertex="1">
+          <mxGeometry y="30" width="186.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-42" value="Care Plan - Course #" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-40" vertex="1">
+          <mxGeometry y="60" width="186.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-43" value="eRx name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-40" vertex="1">
+          <mxGeometry y="90" width="186.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-48" value="Tx Fields" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-40" vertex="1">
+          <mxGeometry y="120" width="186.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-49" value="Tx Calendar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-40" vertex="1">
+          <mxGeometry y="150" width="186.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-53" target="p9t9fxG8Ye37PBpKrWI1-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="1305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-53" target="p9t9fxG8Ye37PBpKrWI1-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900.0000000000002" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-53" value="Billing" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1145" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-55" value="GK Bill Codes (physics)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="1080" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-57" value="GKtXDel -1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="30" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-58" value="GKSrsMgmt -1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="60" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-65" value="GK RTRx -1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="90" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-67" value="GK SpRT Prof -1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="120" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-68" value="GK SpRT Tech -1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="150" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-69" value="GK Tx Plan Prof - 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="180" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-70" value="GKDosCalc Prof - number of shots" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="210" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-71" value="GKDosCalc Tech - number of shots" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="240" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-72" value="GKTxDev Prof - number of collimator settings" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="270" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-73" value="GkTxDev Tech - number of collimator settings" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="300" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-74" value="GKWeeklyPhys - 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="330" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-75" value="GKSpecPhys -1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p9t9fxG8Ye37PBpKrWI1-55" vertex="1">
+          <mxGeometry y="360" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-62" value="Physician Billing Procedure" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="940" y="900" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-63" value="RTT Billing Procedure" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-76" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-53" target="p9t9fxG8Ye37PBpKrWI1-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1170" as="sourcePoint" />
+            <mxPoint x="970" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-77" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" parent="1" vertex="1">
+          <mxGeometry x="870" y="891" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-78" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" parent="1" vertex="1">
+          <mxGeometry x="890" y="911" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-79" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" parent="1" vertex="1">
+          <mxGeometry x="840" y="891" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-80" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" parent="1" vertex="1">
+          <mxGeometry x="860" y="911" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-81" value="Complete Physics Final Chart closeout QCL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="1429" width="170" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="p9t9fxG8Ye37PBpKrWI1-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p9t9fxG8Ye37PBpKrWI1-53" target="p9t9fxG8Ye37PBpKrWI1-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

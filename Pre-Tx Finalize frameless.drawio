@@ -1,0 +1,99 @@
+<mxfile host="172.30.98.44" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.8">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1769" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-0" target="IF1svWK7FsMTX_X5Q6KM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-0" value="Dr. has Reviewed GK Plan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-1" value="Does MD approve?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-0" target="IF1svWK7FsMTX_X5Q6KM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-4" value="GK Planning (frameless)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-6" target="IF1svWK7FsMTX_X5Q6KM-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="540" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-6" value="Physics Second Check" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-17" value="Physicist Approves?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-21" value="Pre-Tx documentation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-23" value="Ready to Treat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-23" target="IF1svWK7FsMTX_X5Q6KM-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="950" as="sourcePoint" />
+            <mxPoint x="863" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-29" value="&lt;i&gt;Optional&lt;/i&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IF1svWK7FsMTX_X5Q6KM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-33" value="Custom Bracket Creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="340" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-35" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IF1svWK7FsMTX_X5Q6KM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-1" target="IF1svWK7FsMTX_X5Q6KM-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-38" value="Yes" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IF1svWK7FsMTX_X5Q6KM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-17" target="IF1svWK7FsMTX_X5Q6KM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="390" as="sourcePoint" />
+            <mxPoint x="860" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-40" value="Yes" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IF1svWK7FsMTX_X5Q6KM-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IF1svWK7FsMTX_X5Q6KM-17" target="IF1svWK7FsMTX_X5Q6KM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="340" as="sourcePoint" />
+            <mxPoint x="840" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-42" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IF1svWK7FsMTX_X5Q6KM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF1svWK7FsMTX_X5Q6KM-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pre-Tx Finalization (frameless)&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Workflow that occurs after the Dr. reviews the plan.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="40" width="260" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

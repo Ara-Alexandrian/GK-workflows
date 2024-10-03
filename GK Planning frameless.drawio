@@ -1,0 +1,64 @@
+<mxfile host="172.30.98.44" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.8">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1535" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="8lswdLN19OuH5nyJSP6L-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GK Planning &lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(frameless)&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;This is the process map for GK planning after the GK SIM Mask or POST GK processes are completed.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-1" target="8lswdLN19OuH5nyJSP6L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-1" target="8lswdLN19OuH5nyJSP6L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-1" value="Physician completed contour QCL and final session in MIM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="50" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-7" value="Contact physics with prescription and goals via email, QCL or text message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-9" value="&lt;font color=&quot;#ff6666&quot;&gt;It is strongly preferred that the eRx is added to Mosaiq at this point (e.g. Dr. Wood&#39;s workflow)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="80" width="220" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-13" target="8lswdLN19OuH5nyJSP6L-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-13" target="8lswdLN19OuH5nyJSP6L-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-13" value="Physics moves MIM Planning Images and Structures to GK Plan" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Images and structures in MIM&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Images and Structures in GK Plan&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-17" target="8lswdLN19OuH5nyJSP6L-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-21" target="8lswdLN19OuH5nyJSP6L-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-21" value="&lt;div&gt;Initialize new&amp;nbsp;&lt;/div&gt;&lt;div&gt;GK Plan&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-32" value="&lt;div&gt;Physics creates QCL for plan review&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="560" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-33" value="Plan is optimized to meet goals" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8lswdLN19OuH5nyJSP6L-21" target="8lswdLN19OuH5nyJSP6L-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lswdLN19OuH5nyJSP6L-36" value="&lt;font color=&quot;#ff6666&quot;&gt;Some doctors want QCL and email, others want a text, etc. QCL is the main communication.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="586.25" width="220" height="67.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
